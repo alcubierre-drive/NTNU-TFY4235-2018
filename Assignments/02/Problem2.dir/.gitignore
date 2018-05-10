@@ -1,0 +1,9 @@
+*.o
+*.so
+calcs
+precious_data
+data_plot/
+types.vim
+img/
+data_time/
+plots/

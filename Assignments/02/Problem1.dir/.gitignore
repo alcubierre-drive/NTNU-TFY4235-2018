@@ -1,0 +1,7 @@
+*.o
+*.so
+calcs
+precious_data
+very_precious_data
+very_very_precious_data
+plots/

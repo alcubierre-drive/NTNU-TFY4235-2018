@@ -1,0 +1,9 @@
+plots/
+const_sim/
+tests/
+reaction
+N_sim/
+st_sim/
+var_sim/
+var_sim_schemes/
+D_sim/
